@@ -1,0 +1,104 @@
+Unnamed: 0
+agitation
+apyrexial
+asthenia
+blackout
+chill
+consciousness clear
+constipation
+cough
+decreased body weight
+decreased translucency
+diarrhea
+difficulty
+distress respiratory
+dizziness
+drowsiness
+dyspnea
+dyspnea on exertion
+dysuria
+energy increased
+erythema
+extreme exhaustion
+facial paresis
+fall
+fatigue
+feeling hopeless
+feeling suicidal
+fever
+formication
+general discomfort
+guaiac positive
+haemoptysis
+haemorrhage
+hallucinations auditory
+hallucinations visual
+has religious belief
+headache
+hematuria
+hemianopsia homonymous
+hemiplegia
+hemodynamically stable
+homelessness
+hyperkalemia
+hypokinesia
+hyponatremia
+hypotension
+indifferent mood
+intoxication
+irritable mood
+jugular venous distention
+labored breathing
+lesion
+lethargy
+lightheadedness
+malaise
+mass of body structure
+mental status changes
+metastatic lesion
+mood depressed
+motor retardation
+muscle twitch
+myalgia
+nausea
+nervousness
+night sweat
+nightmare
+non-productive cough
+numbness
+oliguria
+orthopnea
+orthostasis
+pain
+pain abdominal
+pain chest
+painful swallowing
+palpitation
+paresis
+patient non compliance
+pleuritic pain
+polymyalgia
+pressure chest
+productive cough
+prostatism
+pruritus
+rale
+rhonchus
+seizure
+shortness of breath
+sleeplessness
+sleepy
+sore to touch
+spontaneous rupture of membranes
+suicidal
+sweat
+sweating increased
+swelling
+syncope
+tachypnea
+thicken
+tremor
+unresponsiveness
+verbal auditory hallucinations
+vomiting
+weepiness
